@@ -1,9 +1,0 @@
-brain
-cow 
-zeal
-ant
-box
-zeal
-ant
-ant
-zoo
