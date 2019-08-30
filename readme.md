@@ -3,4 +3,4 @@ Class coursework and final dissertation completed for the MSc Software Developme
 
 https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/
 
-![Glasgow Uni](https://github.com/Lylio/images/blob/master/glasgow_uni.jpg)
+![Glasgow Uni](Glasgow-Uni-logo.png)
