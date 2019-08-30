@@ -5,4 +5,4 @@ Exercise involved creating a gym class timetable using Java and SQL, connected w
 
 https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5076
 
-![Glasgow Uni](https://www.gla.ac.uk/media/media_535061_en.jpg)
+![Glasgow Uni](../Glasgow-Uni-logo.png)
