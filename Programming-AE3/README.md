@@ -4,4 +4,4 @@ Exercise involved creating a fitness class timetable.
 
 https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4039
 
-![Glasgow Uni](https://github.com/Lylio/images/blob/master/glasgow_uni.jpg)
+![Glasgow Uni](../Glasgow-Uni-logo.png)
