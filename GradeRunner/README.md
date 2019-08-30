@@ -10,4 +10,4 @@ https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5018P
 
 
 
-![Glasgow Uni](https://www.gla.ac.uk/media/media_535061_en.jpg)
+![Glasgow Uni](../Glasgow-Uni-logo.png)
