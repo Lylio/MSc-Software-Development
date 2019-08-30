@@ -7,4 +7,4 @@ The app can be found hosted on PythonAnywhere: http://lylio.pythonanywhere.com
 
 https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5012
 
-![Glasgow Uni](https://github.com/Lylio/images/blob/master/glasgow_uni.jpg)
+![Glasgow Uni](../Glasgow-Uni-logo.png)
