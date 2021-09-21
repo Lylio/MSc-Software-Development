@@ -1,4 +1,4 @@
-![](https://github.com/Lylio/image-repo/blob/master/logos/uog1.png?raw=true)
+![](https://github.com/Lylio/image-repo/blob/master/logos/uog.png?raw=true)
 
 # MSc Software Development
 
