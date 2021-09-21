@@ -1,4 +1,8 @@
+![](https://github.com/Lylio/image-repo/blob/master/logos/uog.png?raw=true)
+
 # Advanced Programming
+
+### Description
 Assessed exericise for the Advanced Programming 2018 class (MSc Software Development, University of Glasgow). 
 Exercise involved creating a traffic simulator using locks and threads.
 
@@ -6,4 +10,3 @@ Exercise involved creating a traffic simulator using locks and threads.
 
 https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5002
 
-![Glasgow Uni](../Glasgow-Uni-logo.png)
