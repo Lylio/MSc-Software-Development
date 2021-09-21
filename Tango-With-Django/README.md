@@ -5,4 +5,4 @@
 ### Description
 Python web development with Django. 'Rango' app built with Leif Azzopardi & David Maxwell's 'Tango With Django' book:
 
-![](https://github.com/Lylio/book-covers/blob/master/logos/twd.png?raw=true)
+![](https://github.com/Lylio/image-repo/blob/master/book-covers/twd.png?raw=true)
